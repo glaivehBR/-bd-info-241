@@ -1,1 +1,22 @@
+- **Defina os seguintes conceitos centrais da abordagem ER**:
 
+a) Entidade: são um conjunto de objetos cujo as informações devem ser armazenadas em um banco de dados, como um CPF por exemplo
+
+b) Relacionamento: O relacionamento consiste no relacionamento entre duas entidades, um exemplo seria um médico e um paciente. 
+A entidade paciente estaria se consultando com entidade médico.
+
+c) Atributo: Atributos são incluidos para detalhar as entidades em um banco de dados. Um exemplo seria uma entidade funcionario, 
+dentro dela tem atributos como salário, cargo ou tempo na empresa.
+
+d) Domínio de um Atributo: O domínio de um atributo define os limites dos valores que um atributo pode assumir, 
+Como por exemplo a idade de alguém que só pode ir de 0 a 120 anos.
+
+e) Generalização/especialização: A generalização é o processo de extrair propriedades comuns de um conjunto de entidades 
+e criar uma entidade generalizada a partir delas. Uma pessoa que faz faculdade por exemplo, poderia ter as entidades 
+"FACULDADE" e "ESTUDANTE" e essas podem ser generalizadas para uma entidade de nivel superior chamada "PESSOA".
+
+f) Entidade Associativa: Uma entidade associativa é usada para representar relacionamentos complexos entre outras entidades.
+No contexto de bancos de dados, as entidades associativas são frequentemente implementadas usando tabelas associativas.
+
+g) Cardinalidade de um Atributo: Define quantos valores desse atributo podem estar associados 
+a uma ocorrência da entidade ou relacionamento ao qual ele pertence.
