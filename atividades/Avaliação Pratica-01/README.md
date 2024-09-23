@@ -1,1 +1,0 @@
-#AVALIAÇÃO PRATICA 01 - BD#
